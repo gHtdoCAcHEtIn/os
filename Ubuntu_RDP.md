@@ -1,5 +1,3 @@
-Ubuntu_RDP.md
-
 ## RDP setup on an Ubuntu machine
 
 Follow these steps :
@@ -65,6 +63,6 @@ Enter IP address of your Ubuntu machine. For example:
 Depending on your RDP client capabilities and settings (for example: Microsoft RDP Client allows automatic login), you
 might or might not see the login screen. Here we enter our Ubuntu username and password and click “OK”.
 
-![Ubuntu login]()
+![Ubuntu login](/assets/xrdp-login-screen.png)
 
-![Ubuntu desktop]()
+![Ubuntu desktop](/assets/xrdp-screen.jpg)
