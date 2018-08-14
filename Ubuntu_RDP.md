@@ -66,5 +66,3 @@ might or might not see the login screen. Here we enter our Ubuntu username and p
 ![Ubuntu login](/assets/xrdp-login-screen.png)
 
 ![Ubuntu desktop](/assets/xrdp-screen.jpg)
-
-![](/assets/xrdp-screen.jpg)
