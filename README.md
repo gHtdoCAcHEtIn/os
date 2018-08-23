@@ -27,6 +27,7 @@ Misc
 * SpeedCrunch (calculator)
 * Snipping Tool (preinstalled)
 * Clover (file browser)
+* WinDirStat (for disk usage)
 
 # Mac
 File Transfers like SCP/SFTP/Google Drive
