@@ -1,40 +1,17 @@
-# Linux
-* vim
-* tmux
-* mutt for email
-* tree for directory structure
+# Utils, Notes, Tips, Tricks
 
-# Windows
+## Utilities
+* Linux: [utils-linux.md](utils-linux.md)
+* Windows: [utils-windows.md](utils-windows.md)
+* Mac: [utils-mac.md](utils-mac.md)
 
-Images
-* ImageJ
+## Installs
+* OpenCV: [opencv-cmake-config.md](opencv-cmake-config.md)
+* NVIDIA CUDA: [nvidia-cuda-install.md](nvidia-cuda-install.md)
+* nvidia-docker v1: [nvidia-docker-v1.0.md](nvidia-docker-v1.0.md)
+* RDP on Ubuntu: [remote-desktop-rdp-on-ubuntu.md](remote-desktop-rdp-on-ubuntu.md)
 
-Videos
-* VideoLAN player (VLC)
-
-Text / Document
-* Notepad++ 32-bit version
-* Microsoft Print to PDF
-* PDFsam (PDF Split and Merge)
-
-Programming
-* git
-* docker
-* python / conda / etc.
-* PuTTy
-
-Misc
-* SpeedCrunch (calculator)
-* Snipping Tool (preinstalled)
-* Clover (file browser)
-* WinDirStat (for disk usage)
-
-# Mac
-File Transfers like SCP/SFTP/Google Drive
-* Transmit 5
-* Cyberduck
-* Forklift
-* Fugu
-
-Text Editors
-* Sublime Text 3
+## Tips, Tricks
+* Putty Settings: [putty-settings.md](putty-settings.md)
+* Unix tips & tricks: [unix-tips-tricks.md](unix-tips-tricks.md)
+* Latex Resources: [latex-resources.md](latex-resources.md)
